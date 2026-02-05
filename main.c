@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+//This is open github project form MacBook Pro
+//current date time: 
+// 2024-01-15 14:30:00
+
 void quicksort(int arr[], int left, int right) {
     if (left >= right) return;
     int pivot = arr[right];
